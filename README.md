@@ -4,11 +4,11 @@
     - `<h1>` untuk heading
     - `<p>` untuk paragraf
 3. Pada bagian content(paragraf) terdapat beberapa formating teks
-    - italic <i>
-    - bold <b>
-    - subscript <sub>
-    - superscript <sup>
-    - mark <mark>
+    - italic `<i>`
+    - bold `<b>`
+    - subscript `<sub>`
+    - superscript `<sup>`
+    - mark `<mark>`
     - dll
 3. kemudian menambahkan tag image dan hyperlink
     - `<img src="">` untuk menambahkan gambar
